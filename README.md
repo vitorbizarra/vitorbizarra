@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vitor Bizarra
 
-- 📚 Atualmente estudando Front-End ...
+- 📚 Atualmente estudando Desenvolvimento Web ...
 
 <div>
   <a href="https://github.com/vitorbizarra">
