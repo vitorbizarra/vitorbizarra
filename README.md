@@ -4,8 +4,8 @@
 
 <div style="display: flex; flex-direction: column;">
   <a href="https://github.com/vitorbizarra">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=vitorbizarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbizarra&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=vitorbizarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbizarra&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
