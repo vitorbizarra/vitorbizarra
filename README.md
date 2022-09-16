@@ -2,10 +2,10 @@
 
 - 📚 Atualmente estudando Desenvolvimento Web ...
 
-<div>
+<div style="display: flex; flex-direction: column;">
   <a href="https://github.com/vitorbizarra">
-  <img height="162em" src="https://github-readme-stats.vercel.app/api?username=vitorbizarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbizarra&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=vitorbizarra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbizarra&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -13,6 +13,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </div>
   
 ##
