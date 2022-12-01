@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vitor Bizarra
 
-- 📚 Atualmente estudando Desenvolvimento Web ...
+- 📚 Atualmente estudando PHP🐘 ...
 
 <div style="display: flex; flex-direction: column;">
   <a href="https://github.com/vitorbizarra">
