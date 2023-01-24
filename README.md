@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vitor Bizarra
 
-- 📚 Atualmente estudando Laravel
+- 📚 Atualmente estudando API REST em Laravel e VueJS
 
 <div style="display: flex; flex-direction: column;">
   <a href="https://github.com/vitorbizarra">
