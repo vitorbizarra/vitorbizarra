@@ -4,7 +4,7 @@
 
 - 👨‍🎓 - Cursando Técnologia em Análise e Desenvolvimento de Sistemas pela Facens em Sorocaba - SP
 - 🌐 - Trabalho com desenvolvimento web como Backend com PHP
-- 📚 - Atualmente estudando e desenvolvendo com o framework Laravel
+- 📚 - Atualmente estudando e desenvolvendo com a TALL Stack
 
 ## Github Stats
 
