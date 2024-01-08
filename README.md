@@ -1,4 +1,5 @@
-# Olá! Eu sou o Vitor Bizarra 👋
+# Olá! Me chamo Vitor Bizarra! 👋
+Sou um desenvolvedor backend trabalhando com PHP 🐘
 
 ## Sobre mim
 
@@ -22,6 +23,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%230769AD.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-EE5D99.svg?style=for-the-badge&logo=livewire&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/alpine.js-48a9c1.svg?style=for-the-badge&logo=alpinedotjs&logoColor=white)
