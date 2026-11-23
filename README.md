@@ -64,4 +64,4 @@ Atualmente, também trabalho com a integração de **Inteligência Artificial** 
 ## 🤝 Contato
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white\&logoColor=white)](https://www.linkedin.com/in/vitor-bizarra/)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail\&logoColor=white)](mailto:eu@vitorbizarra.dev.br)
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail\&logoColor=white)](mailto:vitorbizarracontato@gmail.com)
